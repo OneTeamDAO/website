@@ -50,7 +50,7 @@ export default function Home({ allPostsData }) {
           <title>{siteTitle}</title>
         </Head>
 
-        <p>Building Next-Gen Freelancer Organisation for Developers</p>
+        <p>Building Next-Gen Organisation for Developers</p>
         <br/>
         <br/>
 
