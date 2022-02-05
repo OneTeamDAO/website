@@ -56,15 +56,12 @@ export default function Home({ allPostsData }) {
 
 
         <form onSubmit={registerUser}>
-          <div class="row g-3">
-            <div class="col-auto">
-              <p>Subscribe for updates: </p>
-            </div>
+          <div class="row g-2">
             <div class="col-auto">
               <input type="email" class="form-control"  autoComplete="name" id="email" placeholder="richard@piedpiper.com" required/>
             </div>
             <div class="col-auto">
-              <button type="submit" class="btn btn-primary">Count me in</button>
+              <button type="submit" class="btn btn-primary">Subscribe for Updates</button>
             </div>
 
           </div>
